@@ -13,4 +13,4 @@ To summarise, the results of this study showcased a pragmatic method for selecti
 
 
 **Used dataset**
-The dataset that is used in this paper is AI4I 2020 predictive maintenance dataset which is available online thru ML repository. The dataset reflects a real predictive maintenance dataset. The dataset has 10,000 cases for machine predictive maintenance. Each predictive has seven features, which determine whether the machine fails or not (see dataset attached).
+The dataset that is used in this paper is AI4I 2020 predictive maintenance dataset which is available online through ML repository. The dataset reflects a real predictive maintenance dataset. The dataset has 10,000 cases for machine predictive maintenance. Each predictive has seven features, which determine whether the machine fails or not (see dataset attached).
